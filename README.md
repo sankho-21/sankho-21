@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<!--
-**sankho-21/sankho-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+```python
+aboutMe = {
+    Name      : "Sankhojyoti Halder",
+    Interests :["Programming", "Machine Learning", "Filmmaking", "Art and Music"],
+    Languages :["Python","C","C++","HTML","DART","MATLAB"],
+}
+```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
